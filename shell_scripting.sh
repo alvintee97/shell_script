@@ -18,5 +18,5 @@ cd ~/shell_scripting
 git init
 git add .
 git commit -m "update Today's log:)"
-# git remote add origin https://github.com/alvintee97/shell_script.git
+git remote add origin https://github.com/alvintee97/shell_script.git
 git push -f origin master
